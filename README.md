@@ -94,4 +94,4 @@ Profit Margin % = DIVIDE(SUM([Profit]), SUM([Sales]), 0)
 * Applied best practices in dashboard design and layout
 * Used DAX to create meaningful performance metrics
 
--
+
