@@ -26,7 +26,7 @@ This project showcases an interactive Power BI dashboard built to analyze sales 
 
 ##  Dashboard Preview
 
-![Dashboard Preview](your-dashboard-image.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -67,7 +67,6 @@ Profit Margin % = DIVIDE(SUM([Profit]), SUM([Sales]), 0)
 
 ## Dataset
 
-* Sample sales dataset (can mention source if applicable)
 * Includes fields such as:
 
   * Order Date
